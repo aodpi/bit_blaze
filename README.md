@@ -1,16 +1,49 @@
-# bitorrent_client
+# BitBlaze: A Flutter-based Torrent Client
 
-A new Flutter project.
+![BitBlaze Logo](path/to/your/logo.png)
+
+BitBlaze is a bittorrent client developed using Flutter. It allows users to download and manage torrents seamlessly. Whether you're a seasoned torrent enthusiast or a newcomer, BitBlaze provides an intuitive interface for handling your torrent files.
+
+## Features
+
+- **Torrent Management:** Add, pause, resume, and remove torrents.
+- **File Prioritization:** Choose which files within a torrent to download first.
+- **Progress Tracking:** Monitor download progress and seed ratios.
+- **Search Functionality:** Search for torrents directly within the app.
+- **Platform Compatibility:** BitBlaze runs on Android, iOS, web, and desktop (Windows, macOS, Linux).
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. **Clone the Repository from GitHub:**
+    ```bash
+    git clone https://github.com/aodpi/bit_blaze/
+    ```
 
-A few resources to get you started if this is your first Flutter project:
+2. **Navigate to the Project's Root Directory:**
+    ```bash
+    cd bit_blaze
+    ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. **Check Flutter Setup and Connected Devices:**
+    ```bash
+    flutter doctor
+    ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+We welcome contributions! If you'd like to contribute to BitBlaze, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as needed.
+
+## Acknowledgments
+
+- BitBlaze was inspired by the need for a lightweight and user-friendly torrent client.
+- Thanks to the Flutter community for their continuous support and contributions.
+
+Remember to replace the placeholder URLs and customize the content to match your project's specifics. Happy coding! 🚀🔥
